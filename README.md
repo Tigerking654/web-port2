@@ -1,3 +1,6 @@
+Right click the zip file, extract all, double click the folder that is created and the double click "index.html"
+
+
 # web-port
 
 all games are hosted on https://gn-math.github.io
