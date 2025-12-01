@@ -1,8 +1,12 @@
 # web-port
 
+While the naming of the files and the ease of downloading them directly comes from me, the original ports of these is the work and dedication of the people at gn math, make sure to support them.
+This is their [discord](https://discord.gg/D4c9VFYWyU) where you can suggest games, get news on new games, or support the original porters
+https://discord.gg/D4c9VFYWyU
+
 all games are hosted on https://gn-math.github.io
 
-## Full Game List + Credits
+## Full Game List + Credits (The original github directory)
 - [Amanda The Adventurer](https://github.com/genizy/web-port/tree/main/amanda-the-adventurer) - Ported by [Genizy](https://github.com/genizy)
 - [Andy's Apple Farm](https://github.com/genizy/web-port/tree/main/andys-apple-farm) - Ported by [Genizy](https://github.com/genizy)
 - [Baldi's Basics Classic Remastered](https://github.com/genizy/web-port/tree/main/baldi-remaster) - Ported by [koi/_flixel](https://oldgrounds.xyz/)
@@ -12,7 +16,7 @@ all games are hosted on https://gn-math.github.io
 - [BLOODMONEY!](https://github.com/genizy/web-port/tree/main/bloodmoney) - Ported by [Genizy](https://github.com/genizy)
 - [Buckshot Roulette](https://github.com/genizy/web-port/tree/main/buckshot-roulette) - Ported by [Genizy](https://github.com/genizy)
 - [Class of '09](https://github.com/genizy/web-port/tree/main/class-of-09) - Ported by [Genizy](https://github.com/genizy)
-- [Cuphead](https://github.com/web-ports/cuphead/) - Ported by [me](https://github.com/genizy), Decomp by [SpanishFreddy](https://github.com/spanishfreddy) and [koi/_flixel](https://oldgrounds.xyz/)
+- [Cuphead](https://github.com/web-ports/cuphead/) - Ported by [Genizy](https://github.com/genizy), Decomp by [SpanishFreddy](https://github.com/spanishfreddy) and [koi/_flixel](https://oldgrounds.xyz/)
 - [Dead Plate](https://github.com/genizy/web-port/tree/main/dead-plate) - Ported by [Genizy](https://github.com/genizy)
 - [Deadseat](https://github.com/genizy/web-port/tree/main/deadseat) - Ported by [slqnt](https://github.com/slqntdevss)
 - [Deltarune](https://github.com/genizy/web-port/tree/main/deltarune) - Ported by [Genizy](https://github.com/genizy)
@@ -51,7 +55,7 @@ all by slqnt
 -->
 
 ## Credits:
-Thanks to all of these people for making and letting me use their ports:
+Thanks to all of these people for creating these wonderful ports:
 - [98Corbins](https://98cornbin.netlify.app)
 - [bog/aukak](https://github.com/aukak)
 - [burnedpopcorn](https://github.com/burnedpopcorn)
@@ -59,5 +63,6 @@ Thanks to all of these people for making and letting me use their ports:
 - [koi/_flixel](https://oldgrounds.xyz/)
 - [slqnt](https://github.com/slqntdevss)
 - [SpanishFreddy](https://github.com/spanishfreddy)
+- [Genizy](https://github.com/genizy)
 
-All the games here are hosted on my unblocked games website, [gn-math](https://gn-math.github.io), meant to be played online at school. If you have any suggestions for a game, join my [discord](https://discord.gg/D4c9VFYWyU)
+All the games here are hosted on Genizy's unblocked games website, [gn-math](https://gn-math.github.io), meant to be played online at school. If you have any suggestions for a game, join my [discord](https://discord.gg/D4c9VFYWyU)
